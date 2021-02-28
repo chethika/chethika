@@ -2,7 +2,7 @@
 ## I'm an undergraduate student in faculty of computing at Sri Lanka institute of information technology (SLIIT). My scope of study spreads from learning computer programming languages to developing web based applications. My greatest pleasure is to study more on my field and help others to uplift their talents on my filed by giving them my maximum. 
 - 🔭 I do content on Design and Development
 - 🌱 I’m currently learning C# and ASP.Net
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to  play guitar / Listning music / Traveling 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
