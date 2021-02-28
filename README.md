@@ -1,4 +1,4 @@
-<center>### Hi there, I'm Chethika dithmal👋<center> 
+###Hi there, I'm Chethika dithmal👋
 ## I'm an undergraduate student in faculty of computing at Sri Lanka institute of information technology (SLIIT). My scope of study spreads from learning computer programming languages to developing web based applications. My greatest pleasure is to study more on my field and help others to uplift their talents on my filed by giving them my maximum. 
 - 🔭 I do content on Design and Development
 - 🌱 I’m currently learning C# and ASP.Net
