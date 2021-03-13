@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I love to  play guitar / Listning music / Traveling 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-<h3 align="center">A passionate developer from Sri Lanka</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chethika&label=Profile%20views&color=0e75b6&style=flat" alt="chethika" /> </p>
 
