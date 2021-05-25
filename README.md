@@ -4,13 +4,8 @@
 - 🌱 I’m currently learning C# and ASP.Net
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to  play guitar / Listning music / Traveling 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chethika&label=Profile%20views&color=0e75b6&style=flat" alt="chethika" /> </p>
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
